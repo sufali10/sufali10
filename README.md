@@ -1,6 +1,6 @@
 ### About
 Currently a Junior Platform Developer with a passion for mathematical and scientific research. 
-I hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics both from King's College London
+I hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
 
 ### Technical Skills
 - **Programming Languages**: Python, T-SQL, C#
