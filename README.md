@@ -1,3 +1,4 @@
+### About
 Currently a Junior Platform Developer with a passion for mathematical and scientific research. 
 I hold an MSc in Complex Systems Modelling from King's College London and a BSc in Mathematics and Physics. 
 
