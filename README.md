@@ -9,7 +9,7 @@ I hold an MSc in Complex Systems Modelling from King's College London and a BSc 
 - **Software**: Microsoft Office Suite
 
 ### Interests
-- Solving mathematical puzzles and problems (Project Euler, puzzle books)
+- Solving mathematical puzzles and problems
 - Developing and optimizing software solutions
 
 ### Projects and Repositories
