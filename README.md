@@ -5,6 +5,7 @@ I hold an MSc in Complex Systems Modelling from King's College London and a BSc 
 ### Technical Skills
 - **Programming Languages**: Python, T-SQL, C#
 - **Data Analysis Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib
+- **Development Environments**: Jupyter Notebooks, Visual Studio
 - **DevOps**: Azure DevOps
 - **Software**: Microsoft Office Suite
 
@@ -16,7 +17,8 @@ I hold an MSc in Complex Systems Modelling from King's College London and a BSc 
 - **Project Euler Solutions**: Documenting and solving problems from Project Euler.
 - **Complex Systems Modelling**: Research and projects related to my MSc studies.
 
-How to reach me: sufyanali98@outlook.com
+### Contact
+Feel free to reach me via email at: sufyanali98@outlook.com
 <!---
 sufali10/sufali10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
