@@ -1,10 +1,9 @@
-### About
-Currently a Junior Platform Developer with a passion for mathematical and scientific research. 
+### Professional and Academic Background
+Currently a Junior Platform Developer with a passion for computational research projects within the fields of Compelx Systems Modelling and Artificial intelligence. 
 I hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
 
 ### Technical Skills
 - **Programming Languages**: Python, T-SQL, C#
-- **Data Analysis Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib
 - **Development Environments**: Jupyter Notebooks, Visual Studio
 - **DevOps**: Azure DevOps
 - **Software**: Microsoft Office Suite
