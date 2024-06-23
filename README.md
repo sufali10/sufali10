@@ -1,5 +1,5 @@
 ### Professional and Academic Background
-Currently a Junior Platform Developer with a passion for computational research projects within the fields of Compelx Systems Modelling and Artificial intelligence. 
+Currently a Junior Platform Developer with a passion for computational research projects within the fields of Complex Systems Modelling and Artificial intelligence. 
 I hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
 
 ### Technical Skills
