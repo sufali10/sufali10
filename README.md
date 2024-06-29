@@ -1,4 +1,4 @@
-### Professional and Academic Background
+### Professional Background
 Currently a Junior Developer, with professional experience in database management, development and optimisation, data analysis and mathematical modelling. I also hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
 
 ### Technical Skills
