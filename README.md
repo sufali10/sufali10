@@ -1,6 +1,5 @@
 ### Professional and Academic Background
-Currently a Junior Platform Developer with a passion for computational research projects within the fields of Complex Systems Modelling and Artificial intelligence. 
-I hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
+Currently a Junior Developer, with professional experience in database management, development and optimisation, data analysis and mathematical modelling. I also hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
 
 ### Technical Skills
 - **Programming Languages**: Python, T-SQL, C#
@@ -10,6 +9,8 @@ I hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics,
 
 ### Interests
 - Solving mathematical puzzles and problems
+- Complex Systems Modelling research
+- Machine Learning
 - Developing and optimising software solutions
 
 ### Projects and Repositories
