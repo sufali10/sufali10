@@ -9,7 +9,7 @@ Currently a Junior Developer, with professional experience in database managemen
 
 ### Interests
 - Solving mathematical puzzles and problems
-- Complex Systems Modelling research
+- Mathematical Modelling research
 - Machine Learning
 - Developing and optimising software solutions
 
