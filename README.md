@@ -15,7 +15,7 @@ Currently a Junior Developer, with professional experience in database managemen
 
 ### Projects and Repositories
 - **Project Euler Solutions**: Documenting and solving problems from Project Euler.
-- **Mathematical Modelling**: Documenting my independent research projects that involve mathematical modelling.
+- **Mathematical Modelling**: Documenting my independent research projects that involve Mathematical Modelling.
 
 ### Contact
 Feel free to reach me via email at: sufyanali98@outlook.com
