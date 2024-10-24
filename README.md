@@ -1,5 +1,5 @@
 ### Professional Background
-Currently a Junior Developer, with professional experience in database management, development and optimisation, data analysis and mathematical modelling. I also hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
+Professional experience in database management, development, software development, data analysis and mathematical modelling. I hold an MSc in Complex Systems Modelling and a BSc in Mathematics and Physics, both from King's College London.
 
 ### Technical Skills
 - **Programming Languages**: Python, T-SQL, C#
@@ -8,9 +8,9 @@ Currently a Junior Developer, with professional experience in database managemen
 - **Software**: Microsoft Office Suite
 
 ### Interests
-- Solving mathematical puzzles and problems
-- Mathematical Modelling research
-- Machine Learning
+- Solving Mathematical puzzles and problems
+- Keeping up with research of applied Mathematics within the field of Biology 
+- Keeping up with research in Machine Learning and applying Machine Learning techniques to solve problems
 - Developing and optimising software solutions
 
 ### Projects and Repositories
