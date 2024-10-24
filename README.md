@@ -9,7 +9,7 @@ Professional experience in database management, development, software developmen
 
 ### Interests
 - Solving Mathematical puzzles and problems
-- Keeping up with research of applied Mathematics within the field of Biology 
+- Keeping up with research in applied Mathematics within the field of Biology 
 - Keeping up with research in Machine Learning and applying Machine Learning techniques to solve problems
 - Developing and optimising software solutions
 
