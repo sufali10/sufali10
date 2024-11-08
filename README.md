@@ -13,7 +13,7 @@ Professional experience in database management, development, software developmen
 
 ### Projects and Repositories
 - **Project Euler Solutions**: Documenting and solving problems from Project Euler.
-- 
+  
 ### Contact
 Feel free to reach me via email at: sufyanali98@outlook.com
 <!---
