@@ -8,8 +8,7 @@ Professional experience in database management, development, software developmen
 
 ### Interests
 - Solving Mathematical puzzles and problems
-- Keeping up with research in Complex Systems Modelling
-- Keeping up with research in Machine Learning
+- Keeping up with research in Complex Systems Modelling And Machine Learning
 
 ### Projects and Repositories
 - **Project Euler Solutions**: Documenting and solving problems from Project Euler.
