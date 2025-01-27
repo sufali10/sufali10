@@ -11,7 +11,8 @@ Professional experience in database management, development, software developmen
 - Keeping up with research in Complex Systems Modelling And Machine Learning
 
 ### Projects and Repositories
-- **Project Euler Solutions**: Documenting and solving problems from Project Euler.
+- **Project Euler Solutions**: Documenting and solving problems from Project Euler. (public)
+- **Tutoring App**: A web app to manage my academic tutoring, includes features such as managing payments, logging lesson details, tracking student progress, applying AI to generate question and solution sets, and applying AI to automate marking of students answers. (private)
   
 ### Contact
 Feel free to reach me via email at: sufyanali98@outlook.com
