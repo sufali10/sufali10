@@ -3,7 +3,7 @@ Professional experience in database management, development, software developmen
 
 ### Technical Skills
 - **Programming Languages**: Python, T-SQL, C#
-- **Development Environments**: Jupyter Notebooks, Visual Studio
+- **Development Environments**: Jupyter Notebooks, Visual Studio, Visual Studio Code
 - **DevOps**: Azure DevOps
 
 ### Interests
